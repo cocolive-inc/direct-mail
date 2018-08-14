@@ -1,0 +1,7 @@
+.idea/
+config/app.json
+mail/
+log/local.log
+vendor/
+docs/
+servid

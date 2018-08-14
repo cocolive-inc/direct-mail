@@ -1,0 +1,14 @@
+{
+  "mail_store_path" : "/path/to/mail",
+  "log" : {
+    "file" : {
+      "level" : "INFO",
+      "path" : "log/local.log"
+    },
+    "slack" : {
+      "level" : "ERROR",
+      "channel" : "#slack",
+      "hookUrl" : ""
+    }
+  }
+}

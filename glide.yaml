@@ -1,0 +1,8 @@
+package: gitlab.com/nghinv/direct-mail
+import:
+- package: github.com/spf13/viper
+- package: github.com/go-fsnotify/fsnotify
+- package: github.com/ngonghi/VyLog
+  subpackages:
+  - common
+  - handler
